@@ -17,7 +17,8 @@
     "jade": "~1.5.0",
     "mime": "~1.2.11",
     "path": "~0.4.9",
-    "unorm": "~1.3.3"
+    "unorm": "~1.3.3",
+    "mediafire-javascript-sdk": "git://github.com/lexoyo/mediafire-javascript-sdk"
   },
   "devDependencies": {
     "body-parser": "~1.6.5",
